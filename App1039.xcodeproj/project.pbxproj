@@ -19,18 +19,9 @@
 		78B1C6DC2CE33F3700360F92 /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C6DB2CE33F3700360F92 /* CoreDataStack.swift */; };
 		78B1C6E12CE33F7600360F92 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C6E02CE33F7600360F92 /* SettingsView.swift */; };
 		78B1C6E32CE33F7D00360F92 /* TimetableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C6E22CE33F7D00360F92 /* TimetableView.swift */; };
-		78B1C6E52CE33F8400360F92 /* MediaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C6E42CE33F8400360F92 /* MediaView.swift */; };
-		78B1C6E72CE3463C00360F92 /* R1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C6E62CE3463C00360F92 /* R1.swift */; };
-		78B1C6E92CE3464100360F92 /* R2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C6E82CE3464100360F92 /* R2.swift */; };
-		78B1C6EB2CE3464600360F92 /* R3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C6EA2CE3464600360F92 /* R3.swift */; };
 		78B1C6ED2CE3464C00360F92 /* U1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C6EC2CE3464C00360F92 /* U1.swift */; };
 		78B1C6EF2CE3465200360F92 /* Reviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C6EE2CE3465200360F92 /* Reviews.swift */; };
 		78B1C6F12CE3465800360F92 /* Notif.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C6F02CE3465800360F92 /* Notif.swift */; };
-		78B1C6F72CE34B9300360F92 /* New1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C6F62CE34B9300360F92 /* New1.swift */; };
-		78B1C6F92CE34B9800360F92 /* New2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C6F82CE34B9800360F92 /* New2.swift */; };
-		78B1C6FB2CE34B9D00360F92 /* New3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C6FA2CE34B9D00360F92 /* New3.swift */; };
-		78B1C6FD2CE34BA300360F92 /* New4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C6FC2CE34BA300360F92 /* New4.swift */; };
-		78B1C6FF2CE34C5F00360F92 /* MediaViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C6FE2CE34C5F00360F92 /* MediaViewModel.swift */; };
 		78B1C7012CE3864300360F92 /* TimetableViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C7002CE3864300360F92 /* TimetableViewModel.swift */; };
 		78B1C7032CE3872F00360F92 /* DateConvert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C7022CE3872F00360F92 /* DateConvert.swift */; };
 		78B1C7062CE38F2D00360F92 /* AddTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78B1C7052CE38F2D00360F92 /* AddTime.swift */; };
@@ -52,18 +43,9 @@
 		78B1C6DB2CE33F3700360F92 /* CoreDataStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataStack.swift; sourceTree = "<group>"; };
 		78B1C6E02CE33F7600360F92 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		78B1C6E22CE33F7D00360F92 /* TimetableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimetableView.swift; sourceTree = "<group>"; };
-		78B1C6E42CE33F8400360F92 /* MediaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaView.swift; sourceTree = "<group>"; };
-		78B1C6E62CE3463C00360F92 /* R1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R1.swift; sourceTree = "<group>"; };
-		78B1C6E82CE3464100360F92 /* R2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R2.swift; sourceTree = "<group>"; };
-		78B1C6EA2CE3464600360F92 /* R3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R3.swift; sourceTree = "<group>"; };
 		78B1C6EC2CE3464C00360F92 /* U1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = U1.swift; sourceTree = "<group>"; };
 		78B1C6EE2CE3465200360F92 /* Reviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reviews.swift; sourceTree = "<group>"; };
 		78B1C6F02CE3465800360F92 /* Notif.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notif.swift; sourceTree = "<group>"; };
-		78B1C6F62CE34B9300360F92 /* New1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = New1.swift; sourceTree = "<group>"; };
-		78B1C6F82CE34B9800360F92 /* New2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = New2.swift; sourceTree = "<group>"; };
-		78B1C6FA2CE34B9D00360F92 /* New3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = New3.swift; sourceTree = "<group>"; };
-		78B1C6FC2CE34BA300360F92 /* New4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = New4.swift; sourceTree = "<group>"; };
-		78B1C6FE2CE34C5F00360F92 /* MediaViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaViewModel.swift; sourceTree = "<group>"; };
 		78B1C7002CE3864300360F92 /* TimetableViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimetableViewModel.swift; sourceTree = "<group>"; };
 		78B1C7022CE3872F00360F92 /* DateConvert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateConvert.swift; sourceTree = "<group>"; };
 		78B1C7052CE38F2D00360F92 /* AddTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTime.swift; sourceTree = "<group>"; };
@@ -132,7 +114,6 @@
 		78B1C6C82CE33EDF00360F92 /* Start */ = {
 			isa = PBXGroup;
 			children = (
-				78B1C6D12CE33F0C00360F92 /* Rev */,
 				78B1C6D02CE33F0600360F92 /* Us */,
 				78B1C6CD2CE33EFA00360F92 /* LoadingView */,
 				78B1C6CC2CE33EF500360F92 /* Launch */,
@@ -162,7 +143,6 @@
 		78B1C6CB2CE33EF000360F92 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				78B1C6DF2CE33F6C00360F92 /* Media */,
 				78B1C6DE2CE33F6400360F92 /* Timetable */,
 				78B1C6DD2CE33F5E00360F92 /* Settings */,
 			);
@@ -195,16 +175,6 @@
 			path = Us;
 			sourceTree = "<group>";
 		};
-		78B1C6D12CE33F0C00360F92 /* Rev */ = {
-			isa = PBXGroup;
-			children = (
-				78B1C6E62CE3463C00360F92 /* R1.swift */,
-				78B1C6E82CE3464100360F92 /* R2.swift */,
-				78B1C6EA2CE3464600360F92 /* R3.swift */,
-			);
-			path = Rev;
-			sourceTree = "<group>";
-		};
 		78B1C6DD2CE33F5E00360F92 /* Settings */ = {
 			isa = PBXGroup;
 			children = (
@@ -222,51 +192,6 @@
 				78B1C7002CE3864300360F92 /* TimetableViewModel.swift */,
 			);
 			path = Timetable;
-			sourceTree = "<group>";
-		};
-		78B1C6DF2CE33F6C00360F92 /* Media */ = {
-			isa = PBXGroup;
-			children = (
-				78B1C6F52CE34B8900360F92 /* New4 */,
-				78B1C6F42CE34B7C00360F92 /* New3 */,
-				78B1C6F32CE34B7800360F92 /* New2 */,
-				78B1C6F22CE34B7000360F92 /* New1 */,
-				78B1C6E42CE33F8400360F92 /* MediaView.swift */,
-				78B1C6FE2CE34C5F00360F92 /* MediaViewModel.swift */,
-			);
-			path = Media;
-			sourceTree = "<group>";
-		};
-		78B1C6F22CE34B7000360F92 /* New1 */ = {
-			isa = PBXGroup;
-			children = (
-				78B1C6F62CE34B9300360F92 /* New1.swift */,
-			);
-			path = New1;
-			sourceTree = "<group>";
-		};
-		78B1C6F32CE34B7800360F92 /* New2 */ = {
-			isa = PBXGroup;
-			children = (
-				78B1C6F82CE34B9800360F92 /* New2.swift */,
-			);
-			path = New2;
-			sourceTree = "<group>";
-		};
-		78B1C6F42CE34B7C00360F92 /* New3 */ = {
-			isa = PBXGroup;
-			children = (
-				78B1C6FA2CE34B9D00360F92 /* New3.swift */,
-			);
-			path = New3;
-			sourceTree = "<group>";
-		};
-		78B1C6F52CE34B8900360F92 /* New4 */ = {
-			isa = PBXGroup;
-			children = (
-				78B1C6FC2CE34BA300360F92 /* New4.swift */,
-			);
-			path = New4;
 			sourceTree = "<group>";
 		};
 		78B1C7042CE38F1D00360F92 /* AddTime */ = {
@@ -359,15 +284,8 @@
 				78B1C7062CE38F2D00360F92 /* AddTime.swift in Sources */,
 				78B1C6DC2CE33F3700360F92 /* CoreDataStack.swift in Sources */,
 				78B1C6E12CE33F7600360F92 /* SettingsView.swift in Sources */,
-				78B1C6E72CE3463C00360F92 /* R1.swift in Sources */,
-				78B1C6FD2CE34BA300360F92 /* New4.swift in Sources */,
-				78B1C6F92CE34B9800360F92 /* New2.swift in Sources */,
-				78B1C6F72CE34B9300360F92 /* New1.swift in Sources */,
 				78B1C6D82CE33F2700360F92 /* CoreModel.xcdatamodeld in Sources */,
-				78B1C6FB2CE34B9D00360F92 /* New3.swift in Sources */,
-				78B1C6E52CE33F8400360F92 /* MediaView.swift in Sources */,
 				78B1C6BB2CE33EC300360F92 /* ContentView.swift in Sources */,
-				78B1C6FF2CE34C5F00360F92 /* MediaViewModel.swift in Sources */,
 				78B1C7032CE3872F00360F92 /* DateConvert.swift in Sources */,
 				78B1C6F12CE3465800360F92 /* Notif.swift in Sources */,
 				78B1C7012CE3864300360F92 /* TimetableViewModel.swift in Sources */,
@@ -376,10 +294,8 @@
 				78B1C6B92CE33EC300360F92 /* App1039App.swift in Sources */,
 				78B1C6DA2CE33F2E00360F92 /* Array.swift in Sources */,
 				78B1C6ED2CE3464C00360F92 /* U1.swift in Sources */,
-				78B1C6EB2CE3464600360F92 /* R3.swift in Sources */,
 				78B1C6CF2CE33F0200360F92 /* LoadingView.swift in Sources */,
 				78B1C6D52CE33F1C00360F92 /* TabBar.swift in Sources */,
-				78B1C6E92CE3464100360F92 /* R2.swift in Sources */,
 				78B1C7092CE394D300360F92 /* MatchDetail.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

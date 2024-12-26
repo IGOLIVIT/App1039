@@ -49,9 +49,7 @@ struct TabBar: View {
 }
 
 enum Tab: String, CaseIterable {
-    
-    case Media = "Media"
-    
+        
     case Timetable = "Timetable"
     
     case Settings = "Settings"

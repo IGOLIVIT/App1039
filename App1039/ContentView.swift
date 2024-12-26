@@ -9,8 +9,8 @@ import SwiftUI
 
 struct ContentView: View {
     
-    @State var current_tab: Tab = Tab.Media
-
+    @State var current_tab: Tab = Tab.Timetable
+    
     @AppStorage("status") var status: Bool = false
     
     init() {
@@ -25,33 +25,23 @@ struct ContentView: View {
             Color("bg")
                 .ignoresSafeArea()
             
-            if status {
-            
             VStack(spacing: 0, content: {
-            
-                    TabView(selection: $current_tab, content: {
-
-                        MediaView()
-                            .tag(Tab.Media)
-
-                        TimetableView()
-                            .tag(Tab.Timetable)
-
-                        SettingsView()
-                            .tag(Tab.Settings)
-                        
-                    })
+                
+                TabView(selection: $current_tab, content: {
                     
-                    TabBar(selectedTab: $current_tab)
+                    TimetableView()
+                        .tag(Tab.Timetable)
+                    
+                    SettingsView()
+                        .tag(Tab.Settings)
+                    
                 })
-                    .ignoresSafeArea(.all, edges: .bottom)
-                    .onAppear {
-                        
-                    }
                 
-            } else {
+                TabBar(selectedTab: $current_tab)
+            })
+            .ignoresSafeArea(.all, edges: .bottom)
+            .onAppear {
                 
-                R1()
             }
         }
     }
